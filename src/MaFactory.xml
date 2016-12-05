@@ -1,0 +1,24 @@
+<monFramwork>
+
+	<description>
+		<url_pattern>/ActionDebut.do</url_pattern>
+		<Class_action>FrameWork.ActionDebut</Class_action>		
+	</description>
+	
+	<description>
+		<url_pattern>/ActionLogin.do</url_pattern>
+		<Class_action>FrameWork.ActionLogin</Class_action>		
+	</description>
+	
+	<description>
+		<url_pattern>/ActionUn.do</url_pattern>
+		<Class_action>FrameWork.ActionUn</Class_action>		
+	</description>
+	
+	<description>
+		<url_pattern>/LogoutAction.do</url_pattern>
+		<Class_action>FrameWork.LogoutAction</Class_action>		
+	</description>
+	
+	
+</monFramwork>
